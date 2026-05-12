@@ -1,4 +1,4 @@
-# 
+# professional Obsidian for Windows Module | folders + cloud-sync is the best Obsidian for Windows module, featuring folders and cloud-sync. Powerful, efficient, and optimized for
 
 
 
